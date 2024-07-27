@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: pages-themes/tactile@v0.2.0
 title: Jed Yabut
 description: Bookmark this to keep an eye on my project updates!
 show_downloads: true
