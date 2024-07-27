@@ -1,20 +1,18 @@
+# --- I’m currently working on this page. ---
+Hi, this is Jed. I am **currently** working on this page.
 
-## Hi there 👋, This is Jed
-##### Data Scientist, Chemical Engineer
-  -- 😄 Pronouns: he/him
+I am a *Data Scientist* and a *Chemical Engineer* from the Philippines :philippines:
+This portfolio to share my learning progress and projects.
 
-I am making this portfolio to share my learning progress.
+Pronouns: he/him
+Skills: Machine Learning, Deep Learning, Python 
 
-Skills: Machine Learning | Deep Learning | Python 
-
-- 🔭 I’m currently working on this page. 
-- 😄 Pronouns: he/him
   
 ### Education
 Data Science, PSM
 
 ### Work Experiences
-Data Analyst @ S&P Global
+Data Analyst
 
 ### Projects
 
