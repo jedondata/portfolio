@@ -4,4 +4,5 @@ plugins:
 
 title: Jed Yabut
 description: Bookmark this to keep an eye on my project updates!
-show_downloads: true
+show_downloads: false
+
